@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+使用 Vite + Vue3 构建
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+用到了vuetify的组件
 
-## Recommended IDE Setup
+使用了materialdesignicons的图标包（通过CDN引入)
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+这里使用vite构建静态网页后，复制到ESP32的data/www目录后，打包烧录。
