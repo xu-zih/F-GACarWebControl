@@ -1,4 +1,4 @@
-使用 Vite + Vue3 构建
+使用 Bun + Vite + Vue3 构建
 
 用到了vuetify的组件
 
